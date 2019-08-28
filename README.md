@@ -3,7 +3,7 @@ Repositório para a matéria de Sistemas Distribuídos
 
 # Descrição do Projeto
 
-A ideia do projeto a ser implementado na disciplina é o Jogo da Forca no qual será possível dois jogadores se enfrentarem.  O jogo termina ou com o acerto da palavra ou com o término do preenchimento das partes corpóreas do enforcado (serão 6 palpites de letras). As palavras estarão cadastradas no BD e serão escolhidas aleatoriamente. O jogo consistirá em um "melhor de três"
+A ideia do projeto a ser implementado na disciplina é o Jogo da Forca no qual será possível dois jogadores se enfrentarem.  O jogo termina ou com o acerto da palavra ou com o término do preenchimento das partes corpóreas do enforcado (serão 6 palpites de letras). As palavras estarão cadastradas no BD e serão escolhidas aleatoriamente. O jogo consistirá em um "melhor de três".
 
 **Ferramentas**:
 * A linguagem de programação será em JavaScript usando para o Backend: Node e para o Frontend: ReactJS.
